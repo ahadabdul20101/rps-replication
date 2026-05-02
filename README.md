@@ -4,7 +4,7 @@ This project replicates and extends the Rock-Paper-Scissors experiment from Riem
 
 ## Research Question
 
-Can structured prompting strategies close the gap between knowing what an opponent will do and acting on that knowledge, in instruction fine-tuned LLMs? And how does this compare to the findings on base models in the original paper?
+Replicating the experiment to see: If structured prompting strategies close the gap between knowing what an opponent will do and acting on that knowledge, in instruction fine-tuned LLMs? And how does this compare to the findings on base models in the original paper?
 
 ## Key Findings
 
